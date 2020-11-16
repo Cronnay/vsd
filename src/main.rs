@@ -33,6 +33,8 @@ fn main() -> CliResult {
             velocity: _,
             distance: _,
             time: _,
-        } => println!("Not valid format")}
+        } => println!("Not valid format"),
+    }
+
     Ok(())
 }

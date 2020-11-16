@@ -8,7 +8,7 @@ Simple CLI to calculate velocity, distance or speed from the arguments
 `cd vsd/`  
 `cargo build`
 
-To have it in your $PATH - run `cargo install --file .`
+To have it in your $PATH - run `cargo install --path .`
 
 ## Examples
 
